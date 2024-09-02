@@ -1,4 +1,4 @@
-# Student Performance Indicator
+# Student Performance Prediction
 
 ## Project Overview
 
